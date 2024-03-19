@@ -5,9 +5,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aron0821&label=Profile%20views&color=0e75b6&style=flat" alt="aron0821" /> </p>
 
-
-
-<p align="left" width="400> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aron0821&theme=transparent" alt="aron0821" /></a> </p>
+<p align="center" width="400> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aron0821&theme=transparent" alt="aron0821" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
