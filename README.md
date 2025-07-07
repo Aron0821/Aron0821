@@ -1,7 +1,11 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 
+
 <h1 align="center">Hi 👋, I'm Aron Shakha</h1>
-<h3 align="center">IT ALL STARTS WITH YOU FIRST</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+Data+Analyst+|+Learning+Every+Day" alt="Typing SVG"/>
+</div>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aron0821&label=Profile%20views&color=0e75b6&style=flat" alt="aron0821" /> </p>
 
