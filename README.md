@@ -11,7 +11,7 @@
 
 <p align="center" width="400> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aron0821&theme=transparent" alt="aron0821" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
