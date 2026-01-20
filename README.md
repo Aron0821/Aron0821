@@ -3,14 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Aron Shakha</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+Data+Analyst+|+Learning+Every+Day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+Data+Engineer+|+Learning+Every+Day" alt="Typing SVG"/>
 </div>
 
 
 
 
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **ETL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +48,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aron0821&show_icons=true&locale=en&theme=transparent" alt="aron0821" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aron0821&theme=transparent" alt="aron0821" /></p>
 
 
