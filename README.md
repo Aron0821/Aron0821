@@ -1,11 +1,10 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 
-
 <h1 align="center">Hi 👋, I'm Aron Shakha</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+DataBase+Administrator+|+Learning+Every+Day" alt="Typing SVG"/>
-</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C0FF&center=true&width=600&lines=Aspiring+Database+Administrator;Passionate+About+PostgreSQL+and+SQL;Learning+and+Building+Every+Day" alt="Typing SVG"/>
+</div>
 
 
 
